@@ -1,0 +1,19 @@
+{
+  "name": "data-collection-site",
+  "version": "1.0.0",
+  "description": "Website for collecting data about products for companies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitefire356/data-collection-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitefire356/data-collection-site/issues"
+  },
+  "homepage": "https://github.com/whitefire356/data-collection-site#readme"
+}
