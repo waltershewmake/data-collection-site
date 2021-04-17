@@ -1,0 +1,4 @@
+*
+!.gitignore
+!/myriad-genetics/build/
+!/myriad-genetics/build/*
