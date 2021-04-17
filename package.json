@@ -4,7 +4,7 @@
   "description": "Website for collecting data about products for companies",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch db.json -p 80"
   },
   "repository": {
     "type": "git",
